@@ -1,0 +1,34 @@
+[
+  {
+    "ticket_id": "T-1001",
+    "final_category": "other",
+    "final_priority": "high",
+    "final_route_to": "manual_review_queue",
+    "suggested_reply": "Thanks for flagging this. We're sorry about the duplicate charge. Our payments team will review your deposit and reverse any extra charge promptly. We'll follow up shortly.",
+    "was_overridden": true
+  },
+  {
+    "ticket_id": "T-1002",
+    "final_category": "account_access",
+    "final_priority": "urgent",
+    "final_route_to": "trust_and_access_queue",
+    "suggested_reply": "We understand the urgency. Please try resetting your password once more and confirm the email link. If it still fails, our access team will help you regain entry right away.",
+    "was_overridden": false
+  },
+  {
+    "ticket_id": "T-1003",
+    "final_category": "product_how_to",
+    "final_priority": "normal",
+    "final_route_to": "general_support_queue",
+    "suggested_reply": "You can export your transaction history from Settings > Documents > Export, then choose CSV. If you need help locating it, let us know and we'll guide you.",
+    "was_overridden": false
+  },
+  {
+    "ticket_id": "T-1004",
+    "final_category": "bug_report",
+    "final_priority": "high",
+    "final_route_to": "technical_queue",
+    "suggested_reply": "Sorry for the trouble. Please share your device model and app version. Our technical team will investigate the portfolio crash and update you as soon as possible.",
+    "was_overridden": false
+  }
+]

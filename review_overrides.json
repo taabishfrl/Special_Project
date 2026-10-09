@@ -1,0 +1,9 @@
+[
+  {
+    "ticket_id": "T-1001",
+    "old_category": "billing_issue",
+    "new_category": "other",
+    "old_priority": "high",
+    "new_priority": "high"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ticket_id": "T-1001",
+    "category": "billing_issue",
+    "priority": "high",
+    "reason": "Duplicate deposit charge needs payment investigation and reversal.",
+    "suggested_reply": "Thanks for flagging this. We're sorry about the duplicate charge. Our payments team will review your deposit and reverse any extra charge promptly. We'll follow up shortly.",
+    "route_to": "payments_queue",
+    "confidence": 0.97
+  },
+  {
+    "ticket_id": "T-1002",
+    "category": "account_access",
+    "priority": "urgent",
+    "reason": "User cannot log in and needs immediate access before market open.",
+    "suggested_reply": "We understand the urgency. Please try resetting your password once more and confirm the email link. If it still fails, our access team will help you regain entry right away.",
+    "route_to": "trust_and_access_queue",
+    "confidence": 0.95
+  },
+  {
+    "ticket_id": "T-1003",
+    "category": "product_how_to",
+    "priority": "normal",
+    "reason": "User asks how to export transaction history as CSV.",
+    "suggested_reply": "You can export your transaction history from Settings > Documents > Export, then choose CSV. If you need help locating it, let us know and we'll guide you.",
+    "route_to": "general_support_queue",
+    "confidence": 0.96
+  },
+  {
+    "ticket_id": "T-1004",
+    "category": "bug_report",
+    "priority": "high",
+    "reason": "App consistently crashes when opening portfolio tab on latest version.",
+    "suggested_reply": "Sorry for the trouble. Please share your device model and app version. Our technical team will investigate the portfolio crash and update you as soon as possible.",
+    "route_to": "technical_queue",
+    "confidence": 0.93
+  }
+]

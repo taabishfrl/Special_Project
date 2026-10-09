@@ -1,0 +1,8 @@
+[
+  {
+    "ticket_id": "T-1001",
+    "confidence": 0.97,
+    "category": "other",
+    "reason": "category == other"
+  }
+]
